@@ -6,11 +6,13 @@ bin-release/
 [Oo]bj/
 [Bb]in/
 [PDP]/
+[Directory]
 (root)
 (main)
 (env)
 (scripting)
 (code)
+(environments)
 
 
 # Other files and folders
