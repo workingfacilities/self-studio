@@ -1,5 +1,6 @@
 # Build and Release Folders
 bin-debug/
+var/
 bin-release/
 [Oo]bj/
 [Bb]in/
@@ -7,7 +8,7 @@ bin-release/
 # Other files and folders
 .settings/
 
-# Executables
+# Writable and Executables
 *.swf
 *.air
 *.ipa
