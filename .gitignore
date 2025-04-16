@@ -4,6 +4,10 @@ var/
 bin-release/
 [Oo]bj/
 [Bb]in/
+[PDP]/
+(root)
+(main)
+(env)
 
 # Other files and folders
 .settings/
