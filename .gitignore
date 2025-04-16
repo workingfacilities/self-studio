@@ -1,6 +1,7 @@
 # Build and Release Folders
 bin-debug/
 var/
+unixide/
 bin-release/
 [Oo]bj/
 [Bb]in/
@@ -8,6 +9,7 @@ bin-release/
 (root)
 (main)
 (env)
+
 
 # Other files and folders
 .settings/
