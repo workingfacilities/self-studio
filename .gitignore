@@ -9,6 +9,8 @@ bin-release/
 (root)
 (main)
 (env)
+(scripting)
+(code)
 
 
 # Other files and folders
